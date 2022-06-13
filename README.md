@@ -28,6 +28,7 @@ It was built in MERN stack by using the GraphQL for the API call
 </picture>
 
 <hr>
+
 #  You can update the client too..
 
 <picture>
