@@ -1,5 +1,5 @@
 # Project-Management-System
-It was built in MERN stack by using the GraphQL for the API call
+It was built in MERN stack by using the GraphQL for the API call. It was an Dynamic Application where the user can Create/Read/Update/Delete the content.
 
 <picture>
   <img alt="Project_Mgmt" src="./Screenshot (44).png">
